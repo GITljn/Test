@@ -7,5 +7,7 @@ public class HelloWord {
         // 这是第二个人第三次提交的
         System.out.println("二人三次");
 
+        // 这是第一个人第三次提交的
+        System.out.println("一人三次");
     }
 }
