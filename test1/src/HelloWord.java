@@ -21,6 +21,6 @@ public class HelloWord {
 
         // 这是第一个人第五次提交的
 
-        // 1 6
+
     }
 }
